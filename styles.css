@@ -12,7 +12,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 15px 30px;
-    background: linear-gradient(45deg, #19828a, #37a8cb);
+    background: linear-gradient(45deg, #19828a, #194bed);
     color: white;
 }
 
@@ -76,7 +76,7 @@ main {
 
 .intro h2 {
     margin-top: 0;
-    color: #2777a9;
+    color: #2063e8;
 }
 
 .about-me {
